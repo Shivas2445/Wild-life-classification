@@ -58,3 +58,12 @@ You can test the model using the provided notebook and trained model file:
 ```sh
 python test_model.py --image sample_image.jpg
 
+
+```
+## 🤝 Contributors  
+- 👩‍💻 [Swathi M K](https://github.com/SwathiMK2004)
+  ```
+- 👩‍💻 [Piyu](https://github.com/piyu-123-106)
+  ```
+- 👨‍💻 [Supreet Gouda Hiregoudra](https://github.com/SupreetgoudaHiregoudra)
+  ```
